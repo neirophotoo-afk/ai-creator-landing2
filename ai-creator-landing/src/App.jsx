@@ -6,7 +6,7 @@ export default function App() {
   const CONSENT_URL = 'https://disk.yandex.ru/d/tclsfYYEF3T46A';
   const POLICY_URL = 'https://disk.yandex.ru/d/0gG5v8M7upvg4w';
 
-  const heroPhoto = '/hero-katya.jpg';
+  const heroPhoto = '/hero-katya.png';
 
   const services = [
     {
